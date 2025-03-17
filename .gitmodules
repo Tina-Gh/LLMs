@@ -1,6 +1,3 @@
 [submodule "Hands-On-Large-Language-Models"]
 	path = Hands-On-Large-Language-Models
 	url = git@github.com:Tina-Gh/Hands-On-Large-Language-Models.git
-[submodule "transformer-tensorflow"]
-	path = transformer-tensorflow
-	url = https://github.com/lilianweng/transformer-tensorflow.git
