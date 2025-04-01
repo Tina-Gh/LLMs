@@ -4,3 +4,6 @@
 [submodule "transformer-tensorflow"]
 	path = transformer-tensorflow
 	url = git@github.com:Tina-Gh/transformer-tensorflow.git
+[submodule "tensor2tensor"]
+	path = tensor2tensor
+	url = https://github.com/Tina-Gh/tensor2tensor.git
