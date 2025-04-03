@@ -7,3 +7,6 @@
 [submodule "tensor2tensor"]
 	path = tensor2tensor
 	url = https://github.com/Tina-Gh/tensor2tensor.git
+[submodule "annotated-transformer"]
+	path = annotated-transformer
+	url = https://github.com/Tina-Gh/annotated-transformer.git
