@@ -10,3 +10,6 @@
 [submodule "SebastianRaschaBook/LLMs-from-scratch"]
 	path = SebastianRaschaBook/LLMs-from-scratch
 	url = git@github.com:Tina-Gh/LLMs-from-scratch.git
+[submodule "JayAlammarBook/Hands-On-Large-Language-Models"]
+	path = JayAlammarBook/Hands-On-Large-Language-Models
+	url = git@github.com:Tina-Gh/Hands-On-Large-Language-Models.git
