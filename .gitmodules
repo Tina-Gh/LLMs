@@ -10,3 +10,6 @@
 [submodule "annotated-transformer"]
 	path = annotated-transformer
 	url = https://github.com/Tina-Gh/annotated-transformer.git
+[submodule "SebastianRaschaBook/LLMs-from-scratch"]
+	path = SebastianRaschaBook/LLMs-from-scratch
+	url = git@github.com:Tina-Gh/LLMs-from-scratch.git
