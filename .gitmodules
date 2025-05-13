@@ -13,3 +13,6 @@
 [submodule "JayAlammarBook/Hands-On-Large-Language-Models"]
 	path = JayAlammarBook/Hands-On-Large-Language-Models
 	url = git@github.com:Tina-Gh/Hands-On-Large-Language-Models.git
+[submodule "nn-zero-to-hero"]
+	path = nn-zero-to-hero
+	url = git@github.com:Tina-Gh/nn-zero-to-hero.git
